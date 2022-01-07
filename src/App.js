@@ -1,5 +1,6 @@
 import TourCard from './components/TourCard';
 import { Container, Grid } from '@mui/material';
+import './App.css';
 
 function App() {
   return (
